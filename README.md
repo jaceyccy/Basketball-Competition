@@ -1,5 +1,6 @@
 # Basketball-Competition
-Tritonball project competition  
+Tritonball project competition    
+
 Prompt:  
 The evolution of play style in the NBA was birthed out of necessity for efficiency. Using your data, optimize a facet of the game of basketball (player, team, or league based) for the better.  
 
